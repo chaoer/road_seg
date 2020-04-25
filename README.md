@@ -18,3 +18,7 @@ the student project in the "Computational Intelligence Lab" course at ETH Züric
 2. https://github.com/dariopavllo/road-segmentation
 3. https://github.com/paramoecium/road-segmentation
 
+# depth completion
+https://zhuanlan.zhihu.com/p/90773462
+
+
